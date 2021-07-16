@@ -1,1 +1,6 @@
 design/
+*.json
+node_modules/
+scss/
+views/
+gulpfile.js
