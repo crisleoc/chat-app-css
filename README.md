@@ -6,7 +6,7 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
 
 ### Screenshot
 
-![](./images/page.jpg)
+![](./images/page.png)
 
 ### Links
 
